@@ -74,8 +74,13 @@ menu once, and the next hold opens the new one.
 
 3. Remove its folder: `rm -rf ~/Library/Application\ Support/tilldone`.
 
+## What's new
+
+Each release is in the [changelog](CHANGELOG.md).
+
 ## License
 
-Free to use, at home and at work. Tilldone is [Append](https://append.dev)'s; its source is not published.
+Free to use, at home and at work. Tilldone is [Append](https://append.dev)'s; its source is not published
+([license](LICENSE.md)).
 
 © 2026 Append
