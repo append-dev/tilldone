@@ -2,10 +2,6 @@
 
 What each release of Tilldone brings, newest first.
 
-## 0.0.2
-
-- **The `tilldone` command runs the binary npm installed for your Mac, and no other.** Were that binary missing, it says so, and never runs a `tilldone` it happens to find elsewhere on the disk.
-
 ## 0.0.1
 
 The first release: your Mac kept awake till your agents are done.
